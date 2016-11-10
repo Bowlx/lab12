@@ -1,0 +1,9 @@
+c:\users\ssd\documents\visual studio 2015\Projects\lab12\lab12\bin\Debug\lab12.exe.config
+c:\users\ssd\documents\visual studio 2015\Projects\lab12\lab12\bin\Debug\lab12.exe
+c:\users\ssd\documents\visual studio 2015\Projects\lab12\lab12\bin\Debug\lab12.pdb
+c:\users\ssd\documents\visual studio 2015\Projects\lab12\lab12\obj\Debug\lab12.Form1.resources
+c:\users\ssd\documents\visual studio 2015\Projects\lab12\lab12\obj\Debug\lab12.Properties.Resources.resources
+c:\users\ssd\documents\visual studio 2015\Projects\lab12\lab12\obj\Debug\lab12.csproj.GenerateResource.Cache
+c:\users\ssd\documents\visual studio 2015\Projects\lab12\lab12\obj\Debug\lab12.exe
+c:\users\ssd\documents\visual studio 2015\Projects\lab12\lab12\obj\Debug\lab12.pdb
+C:\Users\ssd\documents\visual studio 2015\Projects\lab12\lab12\obj\Debug\lab12.csprojResolveAssemblyReference.cache
